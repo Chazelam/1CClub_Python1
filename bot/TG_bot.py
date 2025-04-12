@@ -4,7 +4,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.filters import Command, StateFilter
 
 # Укажите токен вашего бота, полученный у BotFather
-API_TOKEN = "944480396:AAFAplc2x3vIkTz7Iimq16K03LDzxyowlkE"
+API_TOKEN = ""
 
 # Создаем экземпляры бота и диспетчера
 bot = Bot(token=API_TOKEN)
